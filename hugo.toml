@@ -1,4 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://umrenegade.pl/'
 languageCode = 'pl-pl'
 title = 'UM Renegade'
 theme = 'hugo-book'
+
+[params]
+    BookSearch = false
