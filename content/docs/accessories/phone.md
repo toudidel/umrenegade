@@ -9,11 +9,11 @@ W przypadku nowych i droższych telefonów warto zainwestować w dobry markowy u
 
 ## SP Connect
 
-SP Connect oferuje wiele różnych uchwytów, które można zamontować na kierownicy, lusterku, dźwigni sprzęgła lub hamulca oraz np. na zbiorniczku płynu. 
+[SP Connect](https://sp-connect.eu/collections/motorcycle) oferuje wiele różnych uchwytów, które można zamontować na kierownicy, lusterku, dźwigni sprzęgła lub hamulca oraz np. na zbiorniczku płynu. 
 
 ![](/img/phone/spconnect.png)
 
-System [SP Connect](https://sp-connect.eu/collections/motorcycle) oferuje również ładowarkę indukcyjną. Jednak wielu ludzi informuje, iż działa on jedynie z oryginalnym kablem przeznaczonym do podłączenia ładowarki do instalacji elektrycznej.
+System SP Connect oferuje również ładowarkę indukcyjną. Jednak wielu ludzi informuje, iż działa on jedynie z oryginalnym kablem przeznaczonym do podłączenia ładowarki do instalacji elektrycznej.
 
 ![](/img/phone/spconnect_charger.png) ![](/img/phone/spconnect_cable.png)
 
