@@ -17,4 +17,11 @@ Wymiary akumulatora (w milimetrach) to: **148x85x130**
 
 Istotne jest, by oznaczenie YTX12 podać sprzedawcy, u którego będziemy chcieli nabyć zamiennik oryginalnego akumulatora.
 
+**Uwaga**
+
+Identyczne objawy, jak na filmie powyżej, dał też uszkodzony rozrusznik. Wymiana akumulatora na nowy pomogła na jakiś
+czas, jednak wkrótce znowu pojawiły się problemy z uruchomieniem silnika.
+Co ciekawe rozrusznik po wymontowaniu i podpięciu do akumulatora teoretycznie działał, co jest bardzo mylące. Po
+wymianie rozrusznika na nowy problem zniknął całkowicie.
+
 ![](/img/hardware/battery.jpg)
